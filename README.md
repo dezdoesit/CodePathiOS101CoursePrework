@@ -19,7 +19,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/CKyNK3XBDTY" title="CodePath101" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/CKyNK3XBDTY/0.jpg)](https://www.youtube.com/watch?v=CKyNK3XBDTY)
+
 
 ## App Brainstorming (Step 4)
 
