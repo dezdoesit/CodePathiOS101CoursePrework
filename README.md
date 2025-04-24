@@ -2,7 +2,7 @@
 
 Submitted by: *Dezmond Blair*
 
-**Name of your app** is an app that... Allows a user to view more about me! 
+**ME** is an app that... Allows a user to view more about me! 
 
 Time spent: **6** hours spent in total
 
